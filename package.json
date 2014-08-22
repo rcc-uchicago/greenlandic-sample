@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "init": "data/init.sh",
-    "demo": "node index.js"
+    "demo": "node bin/demo.js"
   },
   "repository": {
     "type": "git",
